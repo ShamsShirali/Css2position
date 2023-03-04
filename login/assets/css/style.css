@@ -5,8 +5,9 @@
 }
 
 body {
-    opacity: 0.800;
-    background-image: linear-gradient(45deg, #7c82fa 0%, #74daff 100%);
+    background-image: url(../img/istockphoto-1320974340-612x612.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -44,7 +45,7 @@ h1 {
     line-height: 28px;
     text-transform: uppercase;
     color: #4f4f4f;
-    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 #main form input {
